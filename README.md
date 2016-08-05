@@ -3,11 +3,11 @@ A simple plugin that reads image files from a directory and returns every image 
 
 ## What it does ?
 
-The program uses to classes in order to read image files from a directory and creates thmubnails of the images
+The program uses 2 classes in order to read image files from a directory and creates thmubnails of these images
 
 ## You can specify file types
 
-You can specify the file types you would like
+You can specify the file types you would like to use
 
 ## Specify the image thumbnail size for the files
-You can specify a size for the thumbnails or use can use the default size which is 100px
+You can specify a size for the thumbnails or you can use can the default size which is 100px
