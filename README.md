@@ -10,4 +10,4 @@ The program uses 2 classes in order to read image files from a directory and cre
 You can specify the file types you would like to use
 
 ## Specify the image thumbnail size for the files
-You can specify a size for the thumbnails or you can use can the default size which is 100px
+You can specify a size for the thumbnails or you can use the default size which is 100px
