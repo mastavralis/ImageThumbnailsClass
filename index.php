@@ -38,7 +38,7 @@ foreach ($filearray as $key => $value){
   echo "<a href=\"$path\" target=\"_blank\" >";
   echo "Title: $value</a> <br />\n";
 }
-echo "</div><br />";
+echo "</div><br />!";
 ?>
 </body>
 </html>
